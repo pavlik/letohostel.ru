@@ -50,7 +50,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-86.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-34.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -114,7 +114,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-46.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-84.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -151,6 +151,7 @@
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/n51a0484-enf-2000x1333-55.jpg",
                 "contentAlign": "center",
+                "overlay": false,
                 "showTitle": false,
                 "title": "Ресепшн и общая зона отдыха",
                 "showText": false,
@@ -369,7 +370,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-86.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-98.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -400,7 +401,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-46.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-57.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -434,9 +435,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -454,7 +453,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-86.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-75.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -587,7 +586,15 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_name": "contacts1",
@@ -606,7 +613,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-46.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-87.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -715,7 +722,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-86.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-91.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -746,7 +753,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-46.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-138-138x128-74.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
