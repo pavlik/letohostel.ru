@@ -1,0 +1,134 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.10",
+    "versionPublish": "2.10",
+    "name": "LETO",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "favicon": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/pavlenko/Dropbox/Projects/gocode/src/github.com/pavlik/letohostel.ru"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "LETO - уютный хостел в самом центре Анапы",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-534x497-86.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">НОМЕРА И ЦЕНЫ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/main-img-2000x1000-82.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "LETO хостел",
+          "text": "Новый, уютный хостел в самом центре Анапы<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "text": "<p><b>LETO</b> - это новый, уютный хостел в самом центре Анапы.</p><p>Мы позиционируем себя как маленький домашний хостел. LETO хостел - это 3 уютных номера. 1 большой 3-х местный (трансформирующийся в 4-х местный) номер с собственным душем и туалетом (идеально подойдет для компании из 4 человек или семьи). И два 2-х местных номера с общим душем и общим туалетом. К услугам наших гостей бесплатный Wi-Fi на территории всего хостела, Общая зона в которой можно поиграть в настольные игры, посмотреть фильмы и сериалы. Здесь же у вас есть возможность воспользоваться кухней. На кухне вы обнаружите холодильник, микроволновую печь, мультиварку, чайник и кофеварку. Также наши гости могут бесплатно оставить багаж в комнате для хранения багажа.</p><p><br></p><p>Для безопасности гостей на территории хостела круглосуточно работает администратор. У каждого гостя есть индивидуальный шкафчик, закрывающийся на ключ. При заселении гостям выдается комплект чистого постельного белья и 2 полотенца. У гостей есть возможность заказать платный трансфер до аэропорта Анапа и ж/д вокзалов Анапы и Тоннельной.</p><p><br></p><p>Теперь немного о месте, в котором находится наш уютный хостел. Это самый центр Анапы. Через дорогу от хостела кинотеатр “Мир кино” и центральный рынок со свежайшими продуктами. В 5 минутах ходьбы находится центральный пляж. В 300 метрах от хостела 4 столовые и разные магазины. Но т.к. наш хостел находится во внутреннем дворе (подъезд со стороны улицы Новороссийской) у нас всегда тихо и спокойно.</p><p><br></p><p>Наши администраторы любят Анапу, поэтому с удовольствием ответят на все вопросы о нашем курорте и экскурсиях. Мы всегда рады вам помочь!</p><p><br></p>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-5",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-534x497-46.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>353440, Россия, <br>Краснодарский край, Анапа,<br>ул. Крымская, 182",
+          "text2": "<strong>Контакты</strong><br>\nEmail: hello@letohostel.ru<br>Мобильный: +7 (918) 052-66-57<br>(Telegram, Whatsapp и Viber)<br><br>Городской/факс: <br>+7 (86133) 3-25-46",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>Соцести</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://instagram.com/letohostel\" target=\"_blank\" class=\"text-white\">Инстаграм</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"http://vk.com/letohostel\" target=\"_blank\">ВКонтакте</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"http://www.ok.ru/letohostel\" target=\"_blank\">Одноклассники</a></li><li><a href=\"https://www.facebook.com/letohostel\" target=\"_blank\" class=\"text-white\">Facebook</a></li></ul>"
+        }
+      ]
+    }
+  }
+}
