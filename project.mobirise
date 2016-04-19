@@ -32,9 +32,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -43,7 +41,7 @@
           "_params": {
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -62,7 +60,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ГЛАВНАЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nomera.html\">НОМЕРА И ЦЕНЫ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
@@ -353,9 +351,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -364,7 +360,7 @@
           "_params": {
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -383,7 +379,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ГЛАВНАЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nomera.html\">НОМЕРА И ЦЕНЫ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
@@ -449,7 +445,7 @@
           "_params": {
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -468,7 +464,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ГЛАВНАЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nomera.html\">НОМЕРА И ЦЕНЫ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
@@ -636,13 +632,48 @@
       },
       "components": [
         {
-          "_name": "header3",
-          "_anchor": "header3-23",
-          "title": "Найти нас не просто, а очень просто!",
-          "_params": {
-            "showMeta": true
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
           },
-          "meta": "Мы находимся по адресу Анапа, Крымская, 182. В том же самом здании что и магазины \"Магнит\" и \"Высшая лига\". Только у нас вход со двора (ул. Новороссийская). На этой же улице находится наша личная парковка."
+          "_name": "content5",
+          "_anchor": "content5-21",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Найти нас не просто, а очень просто!",
+          "meta": "",
+          "text": "<p>Мы находимся по адресу Анапа, Крымская, 182. В том же самом здании что и магазины \"Магнит\" и \"Высшая лига\". Только у нас вход со двора (ул. Новороссийская). На этой же улице находится наша личная парковка.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "text": "The Empire State Building was designed by William F. Lamb from the architectural firm Shreve, Lamb and Harmon.",
@@ -666,9 +697,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -677,7 +706,7 @@
           "_params": {
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -696,7 +725,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ГЛАВНАЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nomera.html\">НОМЕРА И ЦЕНЫ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
@@ -722,294 +751,6 @@
               "width": 265,
               "active": true,
               "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "text1": "<strong>Адрес</strong><br>353440, Россия, <br>Краснодарский край, Анапа,<br>ул. Крымская, 182",
-          "text2": "<strong>Контакты</strong><br>\nEmail: hello@letohostel.ru<br>Мобильный: +7 (918) 052-66-57<br>(Telegram, Whatsapp и Viber)<br><br>Городской/факс: <br>+7 (86133) 3-25-46",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>Соцести</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://instagram.com/letohostel\" target=\"_blank\" class=\"text-white\">Инстаграм</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"http://vk.com/letohostel\" target=\"_blank\">ВКонтакте</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"http://www.ok.ru/letohostel\" target=\"_blank\">Одноклассники</a></li><li><a href=\"https://www.facebook.com/letohostel\" target=\"_blank\" class=\"text-white\">Facebook</a></li></ul>"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "Фотографии и цены номеров в хостеле LETO",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "slider",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/n51a0484-enf-2000x1333-55.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Ресепшн и общая зона отдыха",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/n51a0431-enf-2000x1333-66.jpg",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "4-х местный номер",
-                "showText": true,
-                "text": "2 кровати и раскладывающийся диван. <br>В номере собственный душ и туалет.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/n51a0457-enf-2000x1333-55.jpg",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "2-х местный номер (Yellow)",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/n51a0466-enf-2000x1333-47.jpg",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "2-х местный номер (Orange)",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#ffffff",
-            "showBullets": true
-          },
-          "_anchor": "slider-25",
-          "articleLayout": false
-        },
-        {
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-26",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#f0f0f0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "firstType": "hidden",
-            "showButtons": true,
-            "secondType": "green",
-            "thirdType": "favorite",
-            "fourthType": "orange",
-            "fifthType": "hidden"
-          },
-          "title1": "STANDARD",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "per month",
-          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title2": "2-х местный (Yellow)",
-          "currency2": "₽",
-          "price2": "450",
-          "period2": "с человека в сутки",
-          "list2": "<ul><li><b>900 </b>₽ в сутки за номер</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ</a>",
-          "title3": "4-х местный номер",
-          "currency3": "₽",
-          "price3": "400",
-          "period3": "с человека в сутки",
-          "list3": "<ul><li><b>1500</b> ₽ в сутки за номер</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ</a>",
-          "title4": "2-х местный (Orange)",
-          "currency4": "₽",
-          "price4": "450",
-          "period4": "с человека в сутки",
-          "list4": "<ul><li><b>900 </b>₽ в сутки за номер</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ</a>",
-          "title5": "EXTENDED",
-          "currency5": "$",
-          "price5": "0",
-          "period5": "per month",
-          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
-        },
-        {
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0431-enf-2000x1333-0-2000x1333-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0431-enf-2000x1333-0.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0434-enf-2000x1333-56-2000x1333-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0434-enf-2000x1333-56.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0437-enf-2000x1333-37-2000x1333-87.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0437-enf-2000x1333-37.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0440-enf-2000x1333-23-2000x1333-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0440-enf-2000x1333-23.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0443-enf-2000x1333-17-2000x1333-23.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0443-enf-2000x1333-17.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0457-enf-2000x1333-19-2000x1333-39.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0457-enf-2000x1333-19.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0466-enf-2000x1333-53-2000x1333-72.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0466-enf-2000x1333-53.jpg",
-                "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0472-enf-2000x1333-96-2000x1333-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0472-enf-2000x1333-96.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0484-enf-2000x1333-43-2000x1333-49.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0484-enf-2000x1333-43.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0487-enf-2000x1333-97-2000x1333-29.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0487-enf-2000x1333-97.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0493-2000x1333-59-2000x1333-55.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0493-2000x1333-59.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/n51a0497-2000x1333-33-2000x1333-39.jpg",
-                "image": "@PROJECT_PATH@/assets/images/n51a0497-2000x1333-33.jpg",
-                "active": false
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": true
-          },
-          "_anchor": "gallery1-27",
-          "articleLayout": false
-        },
-        {
-          "_name": "menu",
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "menu-28",
-          "_params": {
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-86.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LETO хостел</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ГЛАВНАЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nomera.html\">НОМЕРА И ЦЕНЫ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">КОНТАКТЫ</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "contacts1",
-          "_anchor": "contacts1-29",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-534x497-46.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "#top",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
