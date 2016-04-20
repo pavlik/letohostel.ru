@@ -10,14 +10,15 @@
     },
     "favicon": "",
     "publishType": "local",
-    "publishPath": "file:///Users/pavlenko/Dropbox/Projects/gocode/src/github.com/pavlik/letohostel.ru"
+    "publishPath": "file:///Users/pavlenko/Dropbox/Projects/gocode/src/github.com/pavlik/letohostel.ru",
+    "google-analytics": "<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\">\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter36905405 = new Ya.Metrika({\r\n                    id:36905405,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/36905405\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "LETO - уютный хостел в самом центре Анапы",
-        "meta_descr": "",
+        "meta_descr": "В хостеле можно снять жилье в Анапе по доступной цене.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -68,6 +69,15 @@
           "_inherit": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#e17021",
+              "font-size": "72px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header4-3",
           "_params": {
             "parallax": true,
@@ -90,16 +100,7 @@
           },
           "title": "LETO хостел",
           "text": "Новый, уютный хостел в самом центре Анапы<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-          "_styles": {
-            "H1": {
-              "color": "#e17021",
-              "font-size": "72px"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
         },
         {
           "_name": "content1",
@@ -142,7 +143,7 @@
     "nomera.html": {
       "settings": {
         "title": "Фотографии и цены номеров в хостеле LETO",
-        "meta_descr": "",
+        "meta_descr": "Ознакомьтесь с внешним видом наших номеров и ценами на размещение",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -429,7 +430,7 @@
     "uslugi.html": {
       "settings": {
         "title": "Услуги в хостеле LETO",
-        "meta_descr": "",
+        "meta_descr": "Бесплатный Wi-Fi, кухня, утюг, фен, парковка и многое другое в LETO хостел",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -646,7 +647,7 @@
     "contacts.html": {
       "settings": {
         "title": "Контактная информация LETO хостел",
-        "meta_descr": "",
+        "meta_descr": "Как нас найти? Легко! Мы находимся в самом центре Анапы!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
