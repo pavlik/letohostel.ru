@@ -235,19 +235,19 @@
           "currency2": "₽",
           "price2": "450",
           "period2": "с человека в сутки",
-          "list2": "<ul><li><b>900 </b>₽ в сутки за номер</li></ul>",
+          "list2": "<ul><li><b>900 </b>₽ в сутки за номер</li><li>(апрель, май)</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.airbnb.ru/rooms/12486442\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАБРОНИРОВАТЬ</a>",
           "title3": "4-х местный номер",
           "currency3": "₽",
           "price3": "400",
           "period3": "с человека в сутки",
-          "list3": "<ul><li><b>1500</b> ₽ в сутки за номер</li></ul>",
+          "list3": "<ul><li><b>1500</b> ₽ в сутки за номер</li><li>(апрель, май)</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.airbnb.ru/rooms/12485702\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАБРОНИРОВАТЬ</a>",
           "title4": "2-х местный (Orange)",
           "currency4": "₽",
           "price4": "450",
           "period4": "с человека в сутки",
-          "list4": "<ul><li><b>900 </b>₽ в сутки за номер</li></ul>",
+          "list4": "<ul><li><b>900 </b>₽ в сутки за номер</li><li>(апрель, май)</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.airbnb.ru/rooms/12487043\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАБРОНИРОВАТЬ</a>",
           "title5": "EXTENDED",
           "currency5": "$",
@@ -470,6 +470,19 @@
         {
           "_inherit": "features1",
           "_name": "content4",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
           "_anchor": "content4-19",
           "_params": {
             "paddingTop": 3,
@@ -491,7 +504,7 @@
             "columns": 5,
             "showImages": false,
             "showTitles": true,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": false
           },
           "headerAlign": "left",
@@ -510,7 +523,7 @@
             }
           },
           "title1": "Бесплатный Wi-Fi",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Работает на всей территории хостела",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -524,8 +537,8 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title2": "Кухня",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Кухня<br>",
+          "caption2": "Посуда, микроволновая печь, мультиварка, чайник и кофеварка",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -539,8 +552,8 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title3": "Утюг",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "Бытовые приборы",
+          "caption3": "Утюг, гладильная доска (бесплатно), стиральная машинка (50 рублей 1 загрузка)",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -555,7 +568,7 @@
             }
           },
           "title4": "Парковка",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Бесплатная собственная парковка для наших гостей",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -569,8 +582,8 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title5": "Книги и настольные игры",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title5": "Книги и настолки",
+          "caption5": "Вечером можно поиграть в Дженгу или почитать Жуль Верна и Драйзера (библиотека книг и игр постоянно пополняется) ;)",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -586,15 +599,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_name": "contacts1",
