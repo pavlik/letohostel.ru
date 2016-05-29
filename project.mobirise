@@ -256,7 +256,7 @@
           "title4": "2-х местный (Orange)",
           "currency4": "₽",
           "price4": "800",
-          "period4": "с человека в сутки",
+          "period4": "в сутки за номер",
           "list4": "<ul><li>С 1 по 31 мая <b>800</b> ₽ в сутки</li><li>С 1 по 15 июня <b>1000</b> ₽ в сутки</li><li>С 15 по 30 июня <b>1700</b> ₽ в сутки</li><li>Июль, август <b>2000</b> ₽ в сутки&nbsp;</li><li>Сентябрь <b>1700</b> ₽ в сутки</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"http://www.booking.com/hotel/ru/leto-hostel.ru.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАБРОНИРОВАТЬ</a>",
           "title5": "EXTENDED",
